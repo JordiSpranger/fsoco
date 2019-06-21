@@ -11,7 +11,7 @@ Visit the [project's website and documentation](https://ddavid.github.io/fsoco/)
 
 ## Contributing
 We have set a minimum contribution amount of <strong>600</strong> images.<br/>
-Small enough not to be a large burden and large enough for the data set to grow naturally.
+Small enough not to be a large burden and large enough for the data set to grow naturally. <br/>
 
 ##### "We don't have any Data or Cones."
 Sharing is caring. This data set lives from your contribution.
@@ -30,6 +30,11 @@ If you're interested in accessing this dataset:
 1. Open pull request
 
 The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without significant loss of quality.
+
+Please follow this YOLO labeling format <br/>
+class:  0           1           2           3  <br/>      
+name:   blue-cone   yellow-cone orange-cone big-orange-cone <br/>
+
 
 ## Documentation
 As we all know, documentation is key for good performance. Please help improve the documentation of this repository if you stumble upon something or if you add scripts.
