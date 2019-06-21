@@ -34,7 +34,8 @@ The pictures are saved and shared through a Google Photos account created becaus
 <pre>
 Please follow this YOLO labeling format <br/>
 class:  0           1           2           3 <br/>      
-name:   blue-cone   yellow-cone orange-cone big-orange-cone 
+name:   blue-cone   yellow-cone orange-cone big-orange-cone <br/> 
+file names: "UniversityName" + "_" + "ImageNumber" + ".FileExtention" example: cooluni_120.jpg
 </pre>
 
 ## Documentation
