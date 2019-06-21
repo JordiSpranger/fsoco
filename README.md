@@ -31,10 +31,11 @@ If you're interested in accessing this dataset:
 
 The pictures are saved and shared through a Google Photos account created because of the available free unlimited storage without significant loss of quality.
 
+<pre>
 Please follow this YOLO labeling format <br/>
-class:  0           1           2           3  <br/>      
+class:  0           1           2           3 <br/>      
 name:   blue-cone   yellow-cone orange-cone big-orange-cone 
-
+</pre>
 
 ## Documentation
 As we all know, documentation is key for good performance. Please help improve the documentation of this repository if you stumble upon something or if you add scripts.
